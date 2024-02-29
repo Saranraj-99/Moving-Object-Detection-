@@ -1,1 +1,2 @@
-# Moving-Object-Detection-
+Introduction 
+Detecting Moving Objects in computer vision involves localizing dynamic objects in video sequences. It has advanced from basic frame differencing and background subtraction with static cameras to complex deep-learning models capable of handling dynamic scenes with moving cameras. Classical computer vision techniques like Gaussian Mixture Models were initially employed for static background modeling. 
